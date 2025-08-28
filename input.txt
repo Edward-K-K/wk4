@@ -1,1 +1,5 @@
-
+Hello world! This is a sample text file.
+It contains multiple lines of text for processing.
+Python is a powerful programming language for data processing.
+File handling is an essential skill for programmers.
+This is the fifth and final line of our sample text.
